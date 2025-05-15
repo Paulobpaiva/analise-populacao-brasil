@@ -3,7 +3,7 @@ layout: none
 ---
 # Relatório Final - Análise Populacional Brasileira
 
-**Data**: 15/05/2025 15:50
+**Data**: 15/05/2025 
 
 ## Destaques
 - População projetada para 2029: 218,769,159 habitantes
