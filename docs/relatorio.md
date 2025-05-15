@@ -11,8 +11,9 @@ layout: none
 - Década com maior crescimento médio: 2000s
 
 ## Dashboard Interativo
-[Visualizar Evolução Populacional](dashboard_evolucao.html)
-[Visualizar Taxas de Crescimento](dashboard_crescimento.html)
+[Visualizar Evolução Populacional](dashboard.html) 
+
+[Visualizar Taxas de Crescimento](crescimento.html)
 
 ## Análise por Década
 |   Década |   Pop_Mínima |   Pop_Máxima |   Pop_Média |   Crescimento_Médio |
